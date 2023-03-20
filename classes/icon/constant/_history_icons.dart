@@ -1,0 +1,30 @@
+part of 'icon_constant.dart';
+
+const IconCategoryModel _$historyCategoryIcons = IconCategoryModel(
+  display: 'history',
+  path: HistoryConstant.categoryIcon,
+  position: HistoryConstant.categoryNo,
+  icons: [
+    IconModel(display: 'archIcon', path: HistoryConstant.archIcon),
+    IconModel(display: 'architectureIcon', path: HistoryConstant.architectureIcon),
+    IconModel(display: 'buildingIcon', path: HistoryConstant.buildingIcon),
+    IconModel(display: 'castleIcon', path: HistoryConstant.castleIcon),
+    IconModel(display: 'castle2Icon', path: HistoryConstant.castle2Icon),
+    IconModel(display: 'castle3Icon', path: HistoryConstant.castle3Icon),
+    IconModel(display: 'castle4Icon', path: HistoryConstant.castle4Icon),
+    IconModel(display: 'castle5Icon', path: HistoryConstant.castle5Icon),
+    IconModel(display: 'castle6Icon', path: HistoryConstant.castle6Icon),
+    IconModel(display: 'churchIcon', path: HistoryConstant.churchIcon),
+    IconModel(display: 'coliseumIcon', path: HistoryConstant.coliseumIcon),
+    IconModel(display: 'historicsiteIcon', path: HistoryConstant.historicsiteIcon),
+    IconModel(display: 'historicsite2Icon', path: HistoryConstant.historicsite2Icon),
+    IconModel(display: 'historyIcon', path: HistoryConstant.historyIcon),
+    IconModel(display: 'landmarkIcon', path: HistoryConstant.landmarkIcon),
+    IconModel(display: 'mayanpyramidIcon', path: HistoryConstant.mayanpyramidIcon),
+    IconModel(display: 'monumentIcon', path: HistoryConstant.monumentIcon),
+    IconModel(display: 'monument2Icon', path: HistoryConstant.monument2Icon),
+    IconModel(display: 'monument3Icon', path: HistoryConstant.monument3Icon),
+    IconModel(display: 'monumentsIcon', path: HistoryConstant.monumentsIcon),
+    IconModel(display: 'mosqueIcon', path: HistoryConstant.mosqueIcon),
+  ],
+);
